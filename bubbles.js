@@ -240,7 +240,7 @@ function drawText(name, letterColors) {
       }
     } else {
       // if undefined set black
-      letterColors = [[0, 0, 27]];
+      letterColors = [[166, 215, 235]];
     }
 
     if (document.alphabet.hasOwnProperty(ccHex)) {
